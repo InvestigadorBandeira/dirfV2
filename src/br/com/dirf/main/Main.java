@@ -22,8 +22,8 @@ public class Main {
 	// System.out.println(dao.getDados().getLancamentos().get(24));
 
 	// gera1708(dao.getDados().getLancamentos());
-	// gera5952(dao.getDados().getLancamentos());
-	geraAnual(dao.getDados().getLancamentos());
+	gera5952(dao.getDados().getLancamentos());
+	// geraAnual(dao.getDados().getLancamentos());
 
     }
 
